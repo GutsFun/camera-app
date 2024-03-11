@@ -10,7 +10,7 @@
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "start_url": "js-cam.html",
+  "start_url": "index.html",
   "scope": "/",
   "background_color": "white",
   "theme_color": "white",
